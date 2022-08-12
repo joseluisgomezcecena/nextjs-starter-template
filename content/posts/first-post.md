@@ -1,5 +1,10 @@
-#TITLE  
+---
+title: "First Post"
+---
 
-##Subtitle
+
+# TITLE  
+
+## Subtitle
 
 My first post.
